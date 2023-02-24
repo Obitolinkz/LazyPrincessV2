@@ -13,7 +13,7 @@ def is_enabled(value, default):
 # Bot information
 SESSION = environ.get('SESSION', 'obito')
 API_ID = int(environ.get('API_ID', '29001906'))
-API_HASH = environ.get('API_HASH', 'ce6c965a54b3d5f393f84446c37a30d9)
+API_HASH = environ.get('API_HASH', 'ce6c965a54b3d5f393f84446c37a30d9')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6203225727:AAFTnMMh-mMq0cRn-vPoTwoKnBkxFwJ_niE")
 
 #Port
